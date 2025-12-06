@@ -156,8 +156,7 @@ Sales by Weekend & Weekdays (Donut Chart)
 
 Sales by Week - Column Chart
 
-![Coffee Sales Dashboard](https://raw.githubusercontent.com/rawdyt/Coffee-Sales-Analysis/main/Coffee%20Sales%20Analysis.png)
-
+![Coffee Sales Dashboard](https://raw.githubusercontent.com/rawdyt/Coffee-Sales-Analysis/main/Screenshot%202025-12-06%20230906.png)
 
 🚀 Skills Demonstrated
 
